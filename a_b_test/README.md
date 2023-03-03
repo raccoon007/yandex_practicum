@@ -12,7 +12,7 @@
 
 **Навыки и инструменты** - python, pandas, numpy, math, datetime, scipy.stats, matplotlib, seaborn, plotly.express, А/В-тестирование, проверка статистических гипотез, метод Бонферрони.
 
-Для визуализации объектов библиотеки plotly.express работа расположена на ресурсе [nbviewer](https://nbviewer.org/github/raccoon007/yandex_practicum/blob/main/a_b_test/a_b_test_ecom_conversion_v_2.ipynb)
+Для визуализации объектов библиотеки plotly.express работа расположена на ресурсе [nbviewer](https://nbviewer.org/github/raccoon007/yandex_practicum/blob/main/a_b_test/a_b_test_ecom_conversion_v_2.ipynb).
 
 ## Резюме
 
