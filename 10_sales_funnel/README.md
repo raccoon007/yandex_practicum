@@ -12,6 +12,8 @@
 
 **Навыки и инструменты** - python, pandas, numpy, math, scipy, datetime, matplotlib, seaborn, plotly, событийная аналитика, продуктовые метрики, A/B-тестирование, проверка статистических гипотез, визуализация данных.
 
+Для визуализации объектов библиотеки plotly.express работа расположена на ресурсе [nbviewer](https://nbviewer.org/github/raccoon007/yandex_practicum/blob/main/10_sales_funnel/sales_funnel.ipynb).
+
 # Резюме
 
 В рамках проведенного исследования:
