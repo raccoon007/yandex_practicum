@@ -18,3 +18,6 @@
 Follow me on email
 agurina11@yandex.ru
 
+Follow me on
+[resume](https://spb.hh.ru/applicant/resumes/view?resume=c200f342ff0b58e1640039ed1f316745754363)
+
