@@ -20,9 +20,8 @@
 |[Оценка корректности А/В-тестирования для интернет-магазина](https://github.com/raccoon007/yandex_practicum/tree/main/a_b_test)|Провести оценку корректности A/B-теста, запущенного после внедрения улучшенной рекомендательной системы, и отследить влияние внесенных изменений на все этапы воронки продаж.|`Python`, `Pandas`, `NumPy`, `Math`, `Scipy`, `Datetime`, `Seaborn`, `Matplotlib`, `Plotly`, <br />`А/В-тестирование`, `проверка статистических гипотез`, `метод Бонферрони`|Интернет-сервисы, Интернет-магазины|Маркетинг-аналитик, Продуктовый аналитик|
 
 # Stay in touch
-Follow me on email
+My email:
 agurina11@yandex.ru
 
-Follow me on
-[resume](https://spb.hh.ru/applicant/resumes/view?resume=c200f342ff0b58e1640039ed1f316745754363)
+My resume on [hh.ru](https://spb.hh.ru/applicant/resumes/view?resume=c200f342ff0b58e1640039ed1f316745754363)
 
