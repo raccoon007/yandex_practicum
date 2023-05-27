@@ -18,11 +18,3 @@
 |[Проверка гипотез по увеличению выручки в интернет-магазине и оценка результатов А/В-теста](https://github.com/raccoon007/yandex_practicum/tree/main/9_hypotheses_and_a_b_test)|Выбрать потенциально наиболее успешную гипотезу по увеличению выручки, провести по ней А/В-тестирование и принять решение по результатам теста.|`Python`, `Pandas`, `NumPy`, `Math`, `Datetime`, `Matplotlib`, `SciPy`, <br />`A/B-тестирование`, `проверка статистических гипотез`|Интернет-магазины|Маркетинг-аналитик|
 |[Анализ пользовательского поведения в мобильном приложении](https://github.com/raccoon007/yandex_practicum/tree/main/10_sales_funnel)|Разобраться в поведении пользователей приложения и исследовать результаты А/А/В-тестирования.|`Python`, `Pandas`, `NumPy`, `Math`, `Datetime`, `Matplotlib`, `SciPy`, `Seaborn`, `Plotly`, `событийная аналитика`, `продуктовые метрики`, `A/B-тестирование`, `проверка статистических гипотез`, `визуализация данных`|Стартапы, Бизнес, Интернет-сервисы|Маркетинг-аналитик, Продуктовый аналитик|
 |[Оценка корректности А/В-тестирования для интернет-магазина](https://github.com/raccoon007/yandex_practicum/tree/main/a_b_test)|Провести оценку корректности A/B-теста, запущенного после внедрения улучшенной рекомендательной системы, и отследить влияние внесенных изменений на все этапы воронки продаж.|`Python`, `Pandas`, `NumPy`, `Math`, `Scipy`, `Datetime`, `Seaborn`, `Matplotlib`, `Plotly`, <br />`А/В-тестирование`, `проверка статистических гипотез`, `метод Бонферрони`|Интернет-сервисы, Интернет-магазины|Маркетинг-аналитик, Продуктовый аналитик|
-
-# Stay in touch
-
-My email: agurina11@yandex.ru
-
-My resume on [hh.ru](https://spb.hh.ru/applicant/resumes/view?resume=c200f342ff0b58e1640039ed1f316745754363)
-
-![https://t.me/amanuylova](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
